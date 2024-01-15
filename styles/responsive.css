@@ -1,0 +1,14 @@
+@media screen and (max-width:576px) {
+
+    .header-section,
+    .items-container {
+        flex-direction: column;
+        margin-left: 50px;
+        gap: 5px;
+    }
+
+    .login-button {
+        margin-top: 10px;
+    }
+
+}
